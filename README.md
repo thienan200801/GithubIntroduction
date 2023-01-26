@@ -45,7 +45,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://myaccount.google.com/u/4/?utm_source=OGB&tab=mk&utm_medium=app&pli=1"><img src="./assets/gmail.png" width="20px" height="20px"/></a>
 <a href="https://www.linkedin.com/in/bao-an-tran-ba0905230"><img src="./assets/linkedin.png" width="20px" height="20px"/></a>
 <a href="https://www.instagram.com/andie_1219/"><img src="./assets/ig.png" width="20px" height="20px"/></a>
