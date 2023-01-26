@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" width="300rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thienan200801&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thienan200801&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thienan200801&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -47,3 +47,5 @@
 <a href="https://www.instagram.com/andie_1219/"><img src="./assets/ig.png" width="20px" height="20px"/></a>
 <a href="https://www.facebook.com/thienannef"><img src="./assets/fb.png" width="20px" height="20px"/></a>
 </p>
+
+<p>Credits to <a href="https://github.com/AVS1508">AVS1508</a> for this template </p>
