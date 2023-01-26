@@ -41,11 +41,11 @@
 
 ### 🤝🏻 &nbsp;See My City
 
-<a href="https://honzaap.github.io/GithubCity/?name=thienan200801&year=2022">See My City</a>
+<a href="https://honzaap.github.io/GithubCity/?name=thienan200801&year=2022" align="center">See My City</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p>
+<p align="center">
 <a href="https://myaccount.google.com/u/4/?utm_source=OGB&tab=mk&utm_medium=app&pli=1"><img src="./assets/gmail.png" width="20px" height="20px"/></a>
 <a href="https://www.linkedin.com/in/bao-an-tran-ba0905230"><img src="./assets/linkedin.png" width="20px" height="20px"/></a>
 <a href="https://www.instagram.com/andie_1219/"><img src="./assets/ig.png" width="20px" height="20px"/></a>
