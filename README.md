@@ -1,15 +1,15 @@
 ![Andie Banner](./assets/Andie_Banner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Welcome to my profile, I'm Andie!</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Welcome to my profile, I'm <b>Andie</b>!</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a Business Analyst and Front-end Engineer. I like to explore new technologies and develop software solutions and best practices.\
+💡 &nbsp;I am a <i>Business Analyst</i> and <i>Front-end Engineer</i>. I like to explore new technologies and develop software solutions and best practices.\
 🎓 &nbsp;I'm currently majoring in Software Engineer at the University of Information Technology-VNU.\
 🌱 &nbsp;I'm on track for learning more about Systems Design and Project Management.\
 ✍️ &nbsp;I would like to spend my whole spare time on reading blogs, listening to music and watching movies.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at andie.tran2700@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at andie.tran2700@gmail.com I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-orange)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![AntDesign](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
